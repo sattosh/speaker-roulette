@@ -4,7 +4,7 @@
 レトロスペクティブで使用するスピーカールーレットアプリケーション。チームメンバーの発表順をランダムに決定し、発表時間を管理するためのツールです。
 
 ## 🚀 ライブデモ
-[GitHub Pages でデモを見る](https://YOUR_USERNAME.github.io/speaker_roulette/)
+[GitHub Pages でデモを見る](https://sattosh.github.io/speaker-roulette/)
 
 ## ✨ 主な機能
 

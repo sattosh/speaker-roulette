@@ -12,7 +12,7 @@
 
 ## 🚀 デモ
 
-[GitHub Pages で試す](https://hirosh.github.io/speaker_roulette/)
+[GitHub Pages で試す](https://sattosh.github.io/speaker-roulette/)
 
 ## 🛠️ 技術スタック
 
