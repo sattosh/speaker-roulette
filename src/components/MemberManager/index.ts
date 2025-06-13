@@ -1,0 +1,1 @@
+export { MemberManager } from './MemberManager';
